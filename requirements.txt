@@ -1,0 +1,8 @@
+PyQt5
+pywin32
+speechrecognition
+pyaudio
+sounddevice
+numpy
+torch
+openai-whisper
